@@ -1,32 +1,40 @@
 # UI-UX-Design-Task-4
 UI/UX design Figma.
 
-## Design Overview
-
-Describe the purpose and goals of the design. Provide a high-level overview of the design elements and user interactions.
-
 ## Design Screenshots
 
-Include screenshots or images of the design screens to give viewers a visual representation of the project.
+- ![View UI]("E:\task4.png")
+- Figma: [Link to Figma](https://www.figma.com/file/mfEtVWmblHnBRFGiMrAZss/CodSoft-Task-4?type=design&node-id=0%3A1&mode=design&t=IDTBFXp30RYFZ0k1-1)
 
-## Tools Used
+## Design Overview
+# B-shop: Your Fashion Destination
 
-- Figma: [Link to Figma](https://www.figma.com/)
-- Other tools, if applicable
+Navigate with ease:
+🏠 Home | 🛍️ Shop | ✍️ Blog | 📞 Contact
 
-## How to View the Design
+Discover Asmire Stylish:
+👗 Dresses & Looks
+Explore a world of Lorem ipsum, offering impeccable styles that captivate. Show More
 
-Provide instructions for others to view or interact with the design:
+**Women's Collection - New Arrivals**
+🌸 Spring 2020
+Bestsellers
+👗 Dresses
+Regular
+New
+👖 Denim Jackets
 
-1. Clone the repository: `git clone https://github.com/your-username/UI-UX-Design-Task-1.git`
-2. Open the design files in Figma.
-3. Explore different design screens and interactions.
+**Top Brands We Offer**
+👜 Louis Vuitton
+👠 Dolce & Gabbana
+👜 Gucci
+👗 Dries Van Noten
 
-## Additional Notes
+**You May Like**
+Women’s black vest - Gucci
+Red Dress - Valentino
+Shiny Dress - Givenchy
 
-Any additional notes, credits, or acknowledgments can be added here.
-
-## License
-
-Specify the license for your design work, e.g., "This project is licensed under the XYZ License - see the [LICENSE](LICENSE) file for details."
-
+Experience elegance at its finest. Shop Now
+Shop Now
+Shop Now
