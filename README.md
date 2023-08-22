@@ -3,7 +3,7 @@ UI/UX design Figma.
 
 ## Design Screenshots
 
-- ![View UI]("E:\task4.png")
+- ![View UI](task4.png)
 - Figma: [Link to Figma](https://www.figma.com/file/mfEtVWmblHnBRFGiMrAZss/CodSoft-Task-4?type=design&node-id=0%3A1&mode=design&t=IDTBFXp30RYFZ0k1-1)
 
 ## Design Overview
